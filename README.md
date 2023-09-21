@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ingryann
+- 👋 Hi, I’m Ingram, Ryan
 - 👀 I’m interested in: maps, programs, computers, music, geography, rocks
 - 🌱 I’m currently learning: frameworks and technologies outside of the .net environment
 
