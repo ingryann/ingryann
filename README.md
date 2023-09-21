@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ingryann
 - 👀 I’m interested in: maps, programs, computers, music, geography, rocks
-- 🌱 I’m currently learning: frameworks and technologies outside of the .net environmen
+- 🌱 I’m currently learning: frameworks and technologies outside of the .net environment
 
 <!---
 ingryann/ingryann is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
